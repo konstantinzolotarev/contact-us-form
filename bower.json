@@ -1,0 +1,24 @@
+{
+  "name": "contact-us-form",
+  "version": "0.1.0",
+  "authors": [
+    "Konstantin Zolotarev <konstantin.zolotarev@gmail.com>"
+  ],
+  "description": "Contact us form for sending user feedbacks to website owners",
+  "main": "contact-us-form.html",
+  "keywords": [
+    "polymer",
+    "contact-us"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.9.0"
+  }
+}
